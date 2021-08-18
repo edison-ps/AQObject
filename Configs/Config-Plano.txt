@@ -1,0 +1,9 @@
+0,								Tipo de objeto (0 - Geral / 1 - Variaveis)
+9999,								Quantidade objetos por secao (1 - 9999)
+1,								Retoma sequencia anterior (0 - nao / 1 - sim)
+0,								Calibracao das imagens finais (0 - nao / 1 - sim)
+1,								Otimizacao de goto (0 - nao / 1 - sim)
+0,								Ativa guiagem (0 - nao / 1 - sim)
+0,								Calibracao das imagens do guider (0 - nao / 1 - sim)			
+0.0,								Numero de pixels para deslocamento do dither
+0,								Plate solve na imagem final (0 - nao / 1 - sim)

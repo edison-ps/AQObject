@@ -1,0 +1,44 @@
+Estrelas-Sync001-ST8.txt,					Nome do arquivo do plano
+0,								Tipo de objeto (0 - Geral / 1 - Variaveis)
+1,								Valor fixo (Sempre 0)
+	,							Delimitador dos campos	
+0.0,								Temperatura da camera
+9999,								Quantidade objetos por secao (1 - 9999)
+1,								Retoma sequencia anterior (0 - nao / 1 - sim)
+23.0,								Altura minima em graus
+5,								Numero de tentativas para localizar o alvo
+2,								Tempo de exposição para localizar o alvo
+1.5,								Tolerancia do erro de localizacao do alvo em minutos de arco
+1,								Camera usada para localizacao do alvo (1 - Principal / 2- Guider)
+3,								Binning para localizacao do alvo
+3,								Tempo de exposicao do guider
+0,								Calibracao das imagens finais (0 - nao / 1 - sim)
+0,								Calibracao das imagens de localizacao do alvo (0 - nao / 1 - sim)
+C:\Temp\Fotometria,						Pasta de trabalho
+0,								Integracao com o sistema Dogs Heaven (0 - nao / 1 - sim)
+D:\_Astronomia\Astrofotos\Transientes\DogsHeaven\Sistema,	Pasta do Sistema Dogs Heaven
+APO_,								Prefixo do arquivo para o sistema Dogs Heaven
+500,								Eixo X do subframe da imagem de confirmacao
+500,								Eixo Y do subframe da imagem de confirmacao
+10,								Catalogo plate solve (3 - GSC / 5 - USNO A2.0 /  10 - UCAC3)
+D:\_Astronomia\Astrometria\Catalogos\UCAC3,			Pasta do catalogo
+0,								Valor fixo (Sempre 0)
+1,								Otimizacao de goto (0 - nao / 1 - sim)
+0,								Escolhe telescopio - Deixar sempre 1 (0 - nao / 1 - sim)
+0,								Ativa guiagem (0 - nao / 1 - sim)
+0,								Resfria camera ao iniciar (0 - nao / 1 - sim)
+0,								Aquece camera ao finalizar (0 - nao / 1 - sim)
+0.0,								Numero de pixels para deslocamento do dither
+0,								Plate solve na imagem final (0 - nao / 1 - sim)
+1,								Numero maximo de erro de plate solve na rotina de localizacao
+0,								Captura paralela de grande campo (0 - nao / 1 - sim)
+1,								ISO da imagem de grande campo
+2,								Binning da imagem de grande campo
+0,								Calibracao da imagem de grande campo
+35,								Exposicao da imagem de grande campo
+TAK,								Prefixo do arquivo de grande campo para o sistema Dogs Heaven
+15,								Timeout em segundos (s) da imagem de grande campo
+1,								Filtro para confirmacao da imagem de grande campo
+3,								Catalogo plate solve grande campo (3 - GSC / 5 - USNO A2.0 /  10 - UCAC3)
+D:\_Astronomia\Astrometria\Catalogos\GSC11,			Pasta do catalogo grande campo
+360,								Intervalo para troca de medidiano 2X (0 - Sem troca / X/2 - Antes e depois)
