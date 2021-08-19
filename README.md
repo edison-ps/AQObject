@@ -23,3 +23,5 @@ Desenvolvimento:
 
 
 ![AAVSO Imagem](Resultado002.JPG "AAVSO")
+
+[Conheça um pouco sobre Eta Carinae  ](https://www.youtube.com/watch?v=8E2S2FVFQdc)
